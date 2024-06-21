@@ -1056,10 +1056,6 @@ video {
   margin-bottom: 0;
 }
 
-.static {
-  position: static;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -1075,10 +1071,6 @@ video {
 
 .mb-8 {
   margin-bottom: 2rem;
-}
-
-.ml-6 {
-  margin-left: 1.5rem;
 }
 
 .mt-12 {
@@ -1109,10 +1101,6 @@ video {
   height: 100%;
 }
 
-.w-36 {
-  width: 9rem;
-}
-
 .max-w-3xl {
   max-width: 48rem;
 }
@@ -1121,8 +1109,8 @@ video {
   max-width: 20rem;
 }
 
-.list-disc {
-  list-style-type: disc;
+.grow {
+  flex-grow: 1;
 }
 
 .flex-col {

@@ -1,7 +1,7 @@
 ---
-title: Hello blog! (an overview of markdown feature support)
-description: A short overview of the markdown features supported by this Middleman blog template, like markdown parsing, frontmatter, syntax-highlighted code blocks and more.
-date: 2024-05-01 09:23
+title: Hello blog! (First post with Ruby Middleman Tailwind Starter Blog)
+description: Trying out this Midleman Blog Template app
+date: 2024-07-21 12:50
 ---
 
 # Hello, blog!
